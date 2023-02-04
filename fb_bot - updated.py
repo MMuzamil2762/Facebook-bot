@@ -130,14 +130,10 @@ def facebook_bot(credentials_lst, profile_ids, comments):
 
 
 if __name__ == "__main__":
-    access_lst = [["tolpeeva_lilya@mail.ru", "u46PejsVc", "RKMW SKRU 7LBF OXIO PBRJ PBG7 ZSZV X3QL"],
-                  ["lushchenkova_khristina@mail.ru", "vb6xUhErL5", "ZDC5 6PIL RNJT AP2A BYDZ J4HM 3K7K W2XY"],
-                  ["hanahesser56@yahoo.com", "mGm0JNEv4ss", "WJ7S 2XTO ZNGS UCT2 6XMG LOJT RHG7 GJPK"],
-                  ["stas.shevarukhin.80@mail.ru", "0PY0ctlejZ", "CQEO KCVB 3FLY XRBK CXYJ WQ2K JFY2 624W"],
-                  ["sanjuanitamccord6@yahoo.com", "nI6svqYxDar", "KYG2 WWJ4 EEYD HCFU 2GM5 XS6J WO3Z RZ3U"]]
+    access_lst = [["fb email", "fb pass", "auth extension"]]
 
-    profile_ids_lst = [["100010862103407", "100010629550649", "100010589628682"],
-                       ["100010876714534", "100010895227929", "100010938360097"]]
+    profile_ids_lst = [["profile id", "profile id", "profile id"],
+                       ["profile id", "profile id", "profile id"]]
 
     comment_lst = ["great", "Nice Work", "Awesome", "Great Buddy"]
 
